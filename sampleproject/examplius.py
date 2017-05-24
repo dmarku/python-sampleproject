@@ -5,3 +5,6 @@ def sample_print():
 
 def deincantate():
     print('nom nom z z z')
+
+def greet_oli():
+    print("Hallo Oli!")
